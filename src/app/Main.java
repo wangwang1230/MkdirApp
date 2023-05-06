@@ -17,7 +17,7 @@ import javax.swing.JTextArea;
 import javax.swing.WindowConstants;
 
 /**
- * 创建文件夹
+ * 创建文件夹1
  * 
  * @author wanghuan
  * @email 874317631@qq.com
